@@ -10,3 +10,7 @@ func A_print() {
 	fmt.Printf("A v2.5.0\n")
 	B.B_print()
 }
+
+func main() {
+	B.B_print()
+}
