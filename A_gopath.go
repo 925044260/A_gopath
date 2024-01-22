@@ -7,6 +7,6 @@ import (
 )
 
 func A_print() {
-	fmt.Printf("A v2.5.0\n")
+	fmt.Printf("A v0.0.0\n")
 	B.B_print()
 }
