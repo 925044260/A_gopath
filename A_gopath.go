@@ -16,5 +16,6 @@ func A_print0() {
 }
 
 func main() {
+	fmt.Printf("A v0.0.0\n")
 	B.B_print()
 }
