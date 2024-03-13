@@ -1,4 +1,4 @@
-package main
+package A_gopath
 
 import (
 	"fmt"
@@ -12,10 +12,5 @@ func A_print() {
 }
 
 func A_print0() {
-	fmt.Printf("A v1.0.0\n")
-}
-
-func main() {
-	fmt.Printf("A v0.0.0\n")
-	B.B_print()
+	fmt.Printf("A v1.0.3\n")
 }
